@@ -1,6 +1,6 @@
 # GoodPlace
 
-![GoodPlace Logo](logo.png)
+![GoodPlace Logo](favicon.png)
 
 GoodPlace é uma aplicação web que conecta as pessoas a ótimos lugares para visitar. Ela fornece aos usuários recomendações, avaliações e informações sobre vários locais, ajudando-os a descobrir novos lugares para explorar e compartilhar suas próprias experiências.
 
